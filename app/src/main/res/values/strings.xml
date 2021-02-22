@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioLibros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Mi_CANNAL_STRING">MI_CANAL</string>
+    <string name="DESCRIPCION_CANAL">ESTA ES LA DESCRIPCION</string>
+</resources>
